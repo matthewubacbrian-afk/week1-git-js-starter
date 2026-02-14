@@ -43,9 +43,9 @@ console.log('Word count in "Hello World" =', strings.wordCount('Hello World'));
 console.log('--- Async Programming ---');
 
 // TODO: Uncomment and test the async demos once implemented
-asyncDemo.demonstrateCallbacks();
-asyncDemo.demonstratePromises();
-asyncDemo.demonstrateAsyncAwait();
+//asyncDemo.demonstrateCallbacks();
+//asyncDemo.demonstratePromises();
+//asyncDemo.demonstrateAsyncAwait();
 
 
 // ============================================
@@ -54,14 +54,14 @@ asyncDemo.demonstrateAsyncAwait();
 console.log('--- Notes App Mini Project ---');
 
 // TODO: Uncomment these once you implement the notes app
-const note1 = notesApp.addNote('Learn JavaScript', 'Complete all exercises in week 1');
-const note2 = notesApp.addNote('Practice Git', 'Work through merge conflict scenarios');
-console.log('All notes:', notesApp.getAllNotes());
-console.log('Find note 1:', notesApp.getNoteById(1));
-notesApp.updateNote(1, 'Learn JavaScript Basics', 'Focus on functions and arrays');
-console.log('Updated notes:', notesApp.getAllNotes());
-notesApp.deleteNote(2);
-console.log('After deletion:', notesApp.getAllNotes());
+//const note1 = notesApp.addNote('Learn JavaScript', 'Complete all exercises in week 1');
+//const note2 = notesApp.addNote('Practice Git', 'Work through merge conflict scenarios');
+//console.log('All notes:', notesApp.getAllNotes());
+//console.log('Find note 1:', notesApp.getNoteById(1));
+//notesApp.updateNote(1, 'Learn JavaScript Basics', 'Focus on functions and arrays');
+//console.log('Updated notes:', notesApp.getAllNotes());
+//notesApp.deleteNote(2);
+//console.log('After deletion:', notesApp.getAllNotes());
 
 
 // ============================================
@@ -73,7 +73,7 @@ console.log('--- Your Code Here ---');
 // - Try different function inputs
 // - Test edge cases
 // - Combine multiple functions together
-console.log('--- Trying Functions ---');
+/*console.log('--- Trying Functions ---');
 // Ex.1 Math.js
 console.log('\n--- Math Example ---');
 console.log('20 + 5 =', math.add(20, 5));
@@ -112,4 +112,4 @@ console.log('Updated note:', notesApp.getNoteById(1));
 console.log('\n--- Sorted Notes ---');
 console.log('Notes by date (newest first):', notesApp.getNotesSortedByDate(false));
 
-console.log('\n=== Keep coding! ===');
+console.log('\n=== Keep coding! ===');*/
