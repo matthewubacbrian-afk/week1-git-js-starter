@@ -43,9 +43,9 @@ console.log('Word count in "Hello World" =', strings.wordCount('Hello World'));
 console.log('--- Async Programming ---');
 
 // TODO: Uncomment and test the async demos once implemented
-//asyncDemo.demonstrateCallbacks();
-//asyncDemo.demonstratePromises();
-//asyncDemo.demonstrateAsyncAwait();
+asyncDemo.demonstrateCallbacks();
+asyncDemo.demonstratePromises();
+asyncDemo.demonstrateAsyncAwait();
 
 
 // ============================================
