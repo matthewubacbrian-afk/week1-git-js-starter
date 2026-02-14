@@ -74,7 +74,7 @@ console.log('--- Your Code Here ---');
 // - Try different function inputs
 // - Test edge cases
 // - Combine multiple functions together
-/*console.log('--- Trying Functions ---');
+console.log('--- Trying Functions ---');
 // Ex.1 Math.js
 console.log('\n--- Math Example ---');
 console.log('20 + 5 =', math.add(20, 5));
@@ -113,4 +113,4 @@ console.log('Updated note:', notesApp.getNoteById(1));
 console.log('\n--- Sorted Notes ---');
 console.log('Notes by date (newest first):', notesApp.getNotesSortedByDate(false));
 
-console.log('\n=== Keep coding! ===');*/
+console.log('\n=== Keep coding! ===');
