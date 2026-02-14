@@ -1,3 +1,4 @@
+
 /**
  * String Utilities
  * Functions for string manipulation and analysis
